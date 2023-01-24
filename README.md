@@ -1,0 +1,2 @@
+# spfx-searchextension
+Search extensions
