@@ -1,0 +1,21 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "SPFx- Search Extension",
+    "id": "7590fcde-1ec8-464e-8e21-ce52b3bb0c64",
+    "version": "1.0.0.1",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "mpnId": "",
+      "name": "SPFx Builders",
+      "termsOfUseUrl": "https://github.com/microsoft-search/pnp-modern-search/blob/main/LICENSE",
+      "privacyUrl": "",
+      "websiteUrl": "https://pnp.github.io/"
+    }
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-search-extension.sppkg"
+  }
+}
